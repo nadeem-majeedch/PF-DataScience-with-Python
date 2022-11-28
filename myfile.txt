@@ -1,1 +1,2 @@
-This is the write commandIt allows us to write in a particular fileThis will add this line
+Hi I am a new sentence
+I am sentence 2
